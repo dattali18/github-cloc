@@ -29,7 +29,6 @@ To run this script, you need to have the following installed:
 
 Here is an example of what the `result.csv` file might look like:
 
-```
 |language              |files|line of code|
 |----------------------|-----|------------|
 |C++                   |116  |11651       |
@@ -55,8 +54,7 @@ Here is an example of what the `result.csv` file might look like:
 |JSON                  |36   |69186       |
 |SQL                   |47   |33327       |
 |CSV                   |20   |9943        |
-...
-```
+
 
 ## Script
 
