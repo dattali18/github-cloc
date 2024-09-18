@@ -29,31 +29,42 @@ To run this script, you need to have the following installed:
 
 Here is an example of what the `result.csv` file might look like:
 
-|language              |files|line of code|
-|----------------------|-----|------------|
-|C++                   |116  |11651       |
-|C/C++ Header          |57   |4154        |
-|CMake                 |2    |65          |
-|C#                    |113  |10569       |
-|Python                |117  |8190        |
-|Jupyter Notebook      |7    |4005        |
-|JavaScript            |51   |15639       |
-|TypeScript            |47   |1986        |
-|JSX                   |40   |1655        |
-|CSS                   |71   |9902        |
-|HTML                  |56   |7699        |
-|Java                  |70   |9822        |
-|Swift                 |120  |11055       |
-|Markdown              |45   |6099        |
-|XML                   |80   |4088        |
-|Sass                  |15   |2703        |
-|XAML                  |19   |2381        |
-|YAML                  |2    |121         |
-|Bash                  |4    |83          |
-|Assembly              |1    |54          |
-|JSON                  |36   |69186       |
-|SQL                   |47   |33327       |
-|CSV                   |20   |9943        |
+|files |language               |blank |comment |code   |
+|------|-----------------------|------|--------|-------|
+|89    |SQL                    |242   |137     |5197571|
+|35    |CSV                    |0     |0       |1713189|
+|15    |Text                   |0     |0       |202103 |
+|42    |JSON                   |3     |0       |78518  |
+|117   |Markdown               |5645  |31      |16945  |
+|121   |JavaScript             |3814  |3954    |12848  |
+|103   |CSS                    |2477  |726     |9456   |
+|113   |C#                     |1650  |1206    |7713   |
+|116   |C++                    |1398  |2604    |7649   |
+|120   |Swift                  |2134  |1316    |7605   |
+|64    |HTML                   |939   |115     |7568   |
+|126   |Python                 |1859  |1264    |5660   |
+|61    |Java                   |1602  |2570    |5429   |
+|85    |JSX                    |726   |179     |4749   |
+|86    |XML                    |1     |23      |4086   |
+|57    |C/C++ Header           |955   |548     |2651   |
+|19    |XAML                   |253   |46      |2082   |
+|19    |Jupyter Notebook       |0     |2174    |1907   |
+|15    |SCSS                   |482   |325     |1896   |
+|47    |TypeScript             |177   |51      |1758   |
+|6     |R                      |165   |126     |244    |
+|5     |Visual Studio Solution |5     |5       |244    |
+|10    |MSBuild script         |38    |0       |194    |
+|40    |SVG                    |0     |0       |145    |
+|5     |Bourne Shell           |25    |26      |59     |
+|2     |YAML                   |8     |59      |54     |
+|2     |Bourne Again Shell     |21    |22      |46     |
+|1     |Assembly               |7     |3       |44     |
+|2     |CMake                  |13    |10      |42     |
+|1     |GDScript               |7     |0       |32     |
+|1     |INI                    |3     |0       |17     |
+|3     |Pug                    |2     |0       |16     |
+|1528  |SUM                    |24651 |17520   |7292520|
+
 
 
 ## Script
